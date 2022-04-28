@@ -1,0 +1,23 @@
+#using packages
+```
+using Pandas
+```
+
+#Jupyter notebook
+```
+using IJulia
+notebook()
+```
+
+#handling packages manager
+```
+]    #package manager
+add IJulia    #install packages
+up IJulia    #update packages
+rm IJulia    #remove packages
+```
+
+using function from packages
+```
+import Gadfly: plot
+```
